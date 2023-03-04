@@ -1,0 +1,2 @@
+# CompStats
+Computational Statistics Assignments
